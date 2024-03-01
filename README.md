@@ -1,15 +1,14 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Drum kit with javascript
+![](/images/drum-kit.png)
 
-> Description the project.
+Drum set for drummers and people who love to play with sounds. in this app i can show you a simples sound of a drums with keyboard knocks to enjoy.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- JavaScript
 
 ## Live Demo (if available)
 
@@ -18,39 +17,23 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- HTML5
+- CSS3
+- JavaScript
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Git clone
 
 ## Authors
 
-👤 **Author1**
+👤 **Josué Benavides**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [jdbs9514](https://linkedin.com/in/macoin)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
